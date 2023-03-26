@@ -1,4 +1,4 @@
-# 21-Merge-Two-Sorted-List
+# 21. Merge Two Sorted List
 
 from typing import Optional
 
